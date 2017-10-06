@@ -1,0 +1,68 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.JET.OLEDB.4.0;Data Source=C:\Users\jason\Dropbox (MIT)\MIT-MEng\Thesis\Altium\Libraries\Cap_Res\Resistors.mdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=Resistors.mdb
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=RES_0603
+[Table1]
+SchemaName=
+TableName=RES_0402
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=106|Resistance0=77|Description0=195|Library Path0=150|Library Ref0=77|Footprint Path0=179|Footprint Ref0=92|Category0=69|Package0=100|Power0=73|Tolerance0=72|Manufacturer0=182|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|Mounting Type0=101|Series0=53|Composition0=89|Temperature Coefficient0=146|Operating Temperature0=143|Size0=201|Height0=87|Packaging0=76|Unit Price0=72|Unit Price Quantity0=119
+[Table2]
+SchemaName=
+TableName=RES_0603
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=109|Description0=199|Library Path0=150|Library Ref0=77|Footprint Path0=179|Footprint Ref0=92|Category0=69|Resistance0=77|Package0=100|Power0=73|Tolerance0=72|Manufacturer0=182|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|Mounting Type0=101|Series0=53|Composition0=89|Temperature Coefficient0=146|Operating Temperature0=143|Size0=201|Height0=87|Packaging0=76|Unit Price0=72|Unit Price Quantity0=119
+[FieldMap1]
+Options=FieldName=RES_0402.Part Number|TableNameOnly=RES_0402|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=RES_0402.Resistance|TableNameOnly=RES_0402|FieldNameOnly=Resistance|FieldType=1|ParameterName=Resistance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=RES_0402.Description|TableNameOnly=RES_0402|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=RES_0402.Library Path|TableNameOnly=RES_0402|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=RES_0402.Library Ref|TableNameOnly=RES_0402|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=RES_0402.Footprint Path|TableNameOnly=RES_0402|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=RES_0402.Footprint Ref|TableNameOnly=RES_0402|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=RES_0603.Part Number|TableNameOnly=RES_0603|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=RES_0603.Description|TableNameOnly=RES_0603|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=RES_0603.Library Path|TableNameOnly=RES_0603|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=RES_0603.Library Ref|TableNameOnly=RES_0603|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=RES_0603.Footprint Path|TableNameOnly=RES_0603|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=RES_0603.Footprint Ref|TableNameOnly=RES_0603|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=RES_0603.Resistance|TableNameOnly=RES_0603|FieldNameOnly=Resistance|FieldType=1|ParameterName=Resistance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0

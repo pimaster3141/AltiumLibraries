@@ -1,0 +1,111 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Data\PCB\Altium\Library\SodiniGroup\Capacitors.mdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=Capacitors.mdb
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=CAP_1206
+[Table1]
+SchemaName=
+TableName=CAP_0402
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=CAP_0603
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=153|Capacitance (Base Prefix)0=149|Description0=191|Library Path0=155|Library Ref0=77|Footprint Path0=133|Footprint Ref0=92|Category0=69|Capacitance0=85|Package0=100|Voltage Rated0=96|Tolerance0=72|Manufacturer0=179|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|Mounting Type0=119|Series0=53|Composition0=89|Temperature Coefficient0=146|Operating Temperature0=143|Size0=201|Thickness0=87|Packaging0=76|Unit Price0=72|Unit Price Quantity0=120
+[Table3]
+SchemaName=
+TableName=CAP_0805
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=149|Capacitance (Base Prefix)0=149|Description0=191|Library Path0=155|Library Ref0=77|Footprint Path0=133|Footprint Ref0=92|Category0=69|Capacitance0=85|Package0=100|Voltage Rated0=96|Tolerance0=72|Manufacturer0=179|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|Mounting Type0=119|Series0=53|Composition0=89|Temperature Coefficient0=146|Operating Temperature0=143|Size0=201|Thickness0=87|Packaging0=76|Unit Price0=72|Unit Price Quantity0=120
+[Table4]
+SchemaName=
+TableName=CAP_1206
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=155|Capacitance (Base Prefix)0=149|Description0=192|Library Path0=155|Library Ref0=77|Footprint Path0=133|Footprint Ref0=92|Category0=69|Capacitance0=85|Package0=100|Voltage Rated0=96|Tolerance0=72|Manufacturer0=179|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|Mounting Type0=119|Series0=53|Composition0=89|Temperature Coefficient0=146|Operating Temperature0=143|Size0=201|Thickness0=87|Packaging0=76|Unit Price0=72|Unit Price Quantity0=120
+[FieldMap1]
+Options=FieldName=CAP_0402.Part Number|TableNameOnly=CAP_0402|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=CAP_0402.Capacitance (Base Prefix)|TableNameOnly=CAP_0402|FieldNameOnly=Capacitance (Base Prefix)|FieldType=1|ParameterName=Capacitance (Base Prefix)|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=CAP_0402.Description|TableNameOnly=CAP_0402|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=CAP_0402.Library Path|TableNameOnly=CAP_0402|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=CAP_0402.Library Ref|TableNameOnly=CAP_0402|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=CAP_0402.Footprint Path|TableNameOnly=CAP_0402|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=CAP_0402.Footprint Ref|TableNameOnly=CAP_0402|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=CAP_0603.Part Number|TableNameOnly=CAP_0603|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=CAP_0603.Capacitance (Base Prefix)|TableNameOnly=CAP_0603|FieldNameOnly=Capacitance (Base Prefix)|FieldType=1|ParameterName=Capacitance (Base Prefix)|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=CAP_0603.Description|TableNameOnly=CAP_0603|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=CAP_0603.Library Path|TableNameOnly=CAP_0603|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=CAP_0603.Library Ref|TableNameOnly=CAP_0603|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=CAP_0603.Footprint Path|TableNameOnly=CAP_0603|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=CAP_0603.Footprint Ref|TableNameOnly=CAP_0603|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=CAP_0805.Part Number|TableNameOnly=CAP_0805|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=CAP_0805.Capacitance (Base Prefix)|TableNameOnly=CAP_0805|FieldNameOnly=Capacitance (Base Prefix)|FieldType=1|ParameterName=Capacitance (Base Prefix)|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=CAP_0805.Description|TableNameOnly=CAP_0805|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=CAP_0805.Library Path|TableNameOnly=CAP_0805|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=CAP_0805.Library Ref|TableNameOnly=CAP_0805|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=CAP_0805.Footprint Path|TableNameOnly=CAP_0805|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=CAP_0805.Footprint Ref|TableNameOnly=CAP_0805|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=CAP_1206.Part Number|TableNameOnly=CAP_1206|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=CAP_1206.Capacitance (Base Prefix)|TableNameOnly=CAP_1206|FieldNameOnly=Capacitance (Base Prefix)|FieldType=1|ParameterName=Capacitance (Base Prefix)|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=CAP_1206.Description|TableNameOnly=CAP_1206|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=CAP_1206.Library Path|TableNameOnly=CAP_1206|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=CAP_1206.Library Ref|TableNameOnly=CAP_1206|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=CAP_1206.Footprint Path|TableNameOnly=CAP_1206|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=CAP_1206.Footprint Ref|TableNameOnly=CAP_1206|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
