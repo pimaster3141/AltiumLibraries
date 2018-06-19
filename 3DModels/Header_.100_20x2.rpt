@@ -1,0 +1,65 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : Solid Edge
+Receiving System Product I.D.: Unknown
+File Name                    : 61304021121.igs
+Sending System               :  By UGS Corp.
+Preprocessor Version         : XPlus GENERIC/IGES 3.0
+File Creation Date           : 20111103.095619
+Model Creation Date          : 20111103.095619
+Units                        : MM
+Model Space Scale            : 1
+Author                       : Author
+Organization                 : Title
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:               3
+  Highest number of significant digits:                     14
+  Average number of significant digits:                4.53072
+  Maximum distance to origin:                          25.7155
+  Minimum distance to origin:                         0.891483
+  Effective number of significant digits:              13.9699
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+102  Composite curve                                916       916
+124  Transformation matrix                           40        40
+126  Rational B-spline curve                       4456      4456
+128  Rational B-spline surface                      378       378
+142  Curve on a parametric surface                  458       458
+144  Trimmed parametric surface                     378       378
+308  Subfigure definition                             3         3
+314  Color definition                               378       378
+408  Singular subfigure instance                     42        42
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       2
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Tuesday, June 12, 2018 16:57:27
+Finish time: Tuesday, June 12, 2018 16:57:35
+Processing time: 0 days, 00 hours, 00 mins, 08 secs
