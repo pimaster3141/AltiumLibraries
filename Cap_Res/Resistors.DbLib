@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.JET.OLEDB.4.0;Data Source=C:\Users\jason\Dropbox (MIT)\MIT-MEng\Thesis\Altium\Libraries\Cap_Res\Resistors.mdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\AltiumLibraries\Cap_Res\Resistors.mdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=RES_0603
+LastFocusedTable=RES_0402
 [Table1]
 SchemaName=
 TableName=RES_0402
@@ -28,16 +28,13 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=106|Resistance0=77|Description0=195|Library Path0=150|Library Ref0=77|Footprint Path0=179|Footprint Ref0=92|Category0=69|Package0=100|Power0=73|Tolerance0=72|Manufacturer0=182|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|Mounting Type0=101|Series0=53|Composition0=89|Temperature Coefficient0=146|Operating Temperature0=143|Size0=201|Height0=87|Packaging0=76|Unit Price0=72|Unit Price Quantity0=119
+BrowserOrder_Visible=Part Number0=106|Resistance0=77|Description0=195|Library Path0=150|Library Ref0=77|Footprint Path0=179|Footprint Ref0=92|Category0=69|Package0=100|Power0=73|Tolerance0=73|Manufacturer0=182|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|Mounting Type0=102|Series0=53|Composition0=89|Temperature Coefficient0=147|Operating Temperature0=144|Size0=201|Height0=87|Packaging0=76|Unit Price0=72|Unit Price Quantity0=119
 [Table2]
 SchemaName=
 TableName=RES_0603
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=109|Description0=199|Library Path0=150|Library Ref0=77|Footprint Path0=179|Footprint Ref0=92|Category0=69|Resistance0=77|Package0=100|Power0=73|Tolerance0=72|Manufacturer0=182|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|Mounting Type0=101|Series0=53|Composition0=89|Temperature Coefficient0=146|Operating Temperature0=143|Size0=201|Height0=87|Packaging0=76|Unit Price0=72|Unit Price Quantity0=119
 [FieldMap1]
 Options=FieldName=RES_0402.Part Number|TableNameOnly=RES_0402|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]

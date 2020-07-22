@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\Data\PCB\Altium\Library\SodiniGroup\Capacitors.mdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\AltiumLibraries\Cap_Res\Capacitors.mdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -32,18 +32,12 @@ TableName=CAP_0603
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=153|Capacitance (Base Prefix)0=149|Description0=191|Library Path0=155|Library Ref0=77|Footprint Path0=133|Footprint Ref0=92|Category0=69|Capacitance0=85|Package0=100|Voltage Rated0=96|Tolerance0=72|Manufacturer0=179|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|Mounting Type0=119|Series0=53|Composition0=89|Temperature Coefficient0=146|Operating Temperature0=143|Size0=201|Thickness0=87|Packaging0=76|Unit Price0=72|Unit Price Quantity0=120
 [Table3]
 SchemaName=
 TableName=CAP_0805
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=149|Capacitance (Base Prefix)0=149|Description0=191|Library Path0=155|Library Ref0=77|Footprint Path0=133|Footprint Ref0=92|Category0=69|Capacitance0=85|Package0=100|Voltage Rated0=96|Tolerance0=72|Manufacturer0=179|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|Mounting Type0=119|Series0=53|Composition0=89|Temperature Coefficient0=146|Operating Temperature0=143|Size0=201|Thickness0=87|Packaging0=76|Unit Price0=72|Unit Price Quantity0=120
 [Table4]
 SchemaName=
 TableName=CAP_1206
@@ -52,7 +46,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=155|Capacitance (Base Prefix)0=149|Description0=192|Library Path0=155|Library Ref0=77|Footprint Path0=133|Footprint Ref0=92|Category0=69|Capacitance0=85|Package0=100|Voltage Rated0=96|Tolerance0=72|Manufacturer0=179|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|Mounting Type0=119|Series0=53|Composition0=89|Temperature Coefficient0=146|Operating Temperature0=143|Size0=201|Thickness0=87|Packaging0=76|Unit Price0=72|Unit Price Quantity0=120
+BrowserOrder_Visible=Part Number0=155|Capacitance (Base Prefix)0=148|Description0=192|Library Path0=150|Library Ref0=77|Footprint Path0=179|Footprint Ref0=92|Category0=69|Capacitance0=85|Package0=100|Voltage Rated0=96|Tolerance0=73|Manufacturer0=179|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|Mounting Type0=119|Series0=53|Composition0=89|Temperature Coefficient0=147|Operating Temperature0=144|Size0=201|Thickness0=87|Packaging0=76|Unit Price0=72|Unit Price Quantity0=119
 [FieldMap1]
 Options=FieldName=CAP_0402.Part Number|TableNameOnly=CAP_0402|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
