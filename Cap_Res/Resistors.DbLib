@@ -26,9 +26,6 @@ TableName=RES_0402
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=106|Resistance0=77|Description0=195|Library Path0=150|Library Ref0=77|Footprint Path0=179|Footprint Ref0=92|Category0=69|Package0=100|Power0=73|Tolerance0=73|Manufacturer0=182|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142|Mounting Type0=102|Series0=53|Composition0=89|Temperature Coefficient0=147|Operating Temperature0=144|Size0=201|Height0=87|Packaging0=76|Unit Price0=72|Unit Price Quantity0=119
 [Table2]
 SchemaName=
 TableName=RES_0603
